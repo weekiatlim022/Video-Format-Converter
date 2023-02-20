@@ -1,0 +1,38 @@
+Checking: Cosmos_War_of_the_Planets.mp4
+	Video FPS invalid: 25 vs 30
+	Aspect ratio invalid: 16:9 vs 314:177
+	Video resolution invalid: 640x360 vs 628x354
+	Audio bitrate invalid: 317 Kb/s is higher than 256 Kb/s
+	Re-encoding...
+
+Checking: Last_man_on_earth_1964.mov
+	Video file extension invalid: .mp4 vs .mov
+	Video codec invalid: h264 vs prores
+	Audio codec invalid: aac vs pcm
+	Video FPS invalid: 25 vs 24
+	Video bitrate invalid: 9.29 Mb/s is not in range of 2 - 5 Mb/s
+	Audio bitrate invalid: 1536 Kb/s is higher than 256 Kb/s
+	Re-encoding...
+
+Checking: The_Hill_Gang_Rides_Again.mp4
+	Video bitrate invalid: 7.54 Mb/s is not in range of 2 - 5 Mb/s
+	Re-encoding...
+
+Checking: Voyage_to_the_Planet_of_Prehistoric_Women.mp4
+	Video codec invalid: h264 vs hevc
+	Audio codec invalid: aac vs mp3
+	Video FPS invalid: 25 vs 30
+	Video bitrate invalid: 8.04 Mb/s is not in range of 2 - 5 Mb/s
+	Audio bitrate invalid: 320 Kb/s is higher than 256 Kb/s
+	Re-encoding...
+
+Checking: The_Gun_and_the_Pulpit.avi
+	Video file extension invalid: .mp4 vs .avi
+	Video codec invalid: h264 vs rawvideo
+	Audio codec invalid: aac vs pcm
+	Aspect ratio invalid: 16:9 vs 0:1
+	Video resolution invalid: 640x360 vs 720x404
+	Video bitrate invalid: 87.44 Mb/s is not in range of 2 - 5 Mb/s
+	Audio bitrate invalid: 1536 Kb/s is higher than 256 Kb/s
+	Audio channels invalid: stereo vs unknown
+	Re-encoding...
